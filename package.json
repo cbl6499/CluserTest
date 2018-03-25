@@ -1,0 +1,20 @@
+{
+  "name": "clusertest",
+  "version": "1.0.0",
+  "description": "simple NodeJs Cluster Test with simulated worktime",
+  "main": "Cluster.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cbl6499/CluserTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cbl6499/CluserTest/issues"
+  },
+  "homepage": "https://github.com/cbl6499/CluserTest#readme"
+}
